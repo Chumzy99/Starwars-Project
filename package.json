@@ -1,0 +1,25 @@
+{
+  "name": "starwars-project",
+  "version": "1.0.0",
+  "description": "building a starwar page to dynamically render details from an api",
+  "default": "index.html",
+  "dependencies": {
+    "nodemon": "^2.0.14",
+    "parcel": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decadevs/week-one-task-Chumzy99.git"
+  },
+  "author": "chima michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decadevs/week-one-task-Chumzy99/issues"
+  },
+  "homepage": "https://github.com/decadevs/week-one-task-Chumzy99#readme"
+}
